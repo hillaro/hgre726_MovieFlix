@@ -1,0 +1,3 @@
+id,user_id,movie_id, review_text,rating
+1,2,3,"Kinda eh, not enjoyable",2
+2,1,1,"I've never seen this film before, but I'll review it anyway. I don't think I'll like it.",4
